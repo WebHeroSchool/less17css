@@ -1,0 +1,31 @@
+ /*for-phone-only */
+  @media (max-width: 599px) {
+  	.wrap__title {
+  		font-size: 25px;
+  	}
+  }
+
+/*for-tablet-portrait-up */
+  @media (min-width: 600px) {
+ 	  .wrap__title {
+  	 	font-size: 30px;
+  	}
+  }
+/*for-tablet-landscape-up*/
+  @media (min-width: 900px) {
+   	.wrap__title {
+  		font-size: 35px;
+  	}
+  }
+/*for-desktop-up */
+  @media (min-width: 1200px) {
+   	.wrap__title {
+  		font-size: 40px;
+  	}
+  }
+/*for-big-desktop-up */
+  @media (min-width: 1800px) {
+   	.wrap__title {
+  		font-size: 45px;
+  	}
+  } 
